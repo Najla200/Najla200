@@ -1,7 +1,7 @@
 Najla Hamza 
 Undergraduate | Faculty Of Computing | Sabaragamuwa University of Sri Lanka
 Aspiring Software Engineer |  Back-End Enthusiast
-- Languages: HTML, CSS, JavaScript, PHP,C,Java 
+- Languages: HTML, CSS, JavaScript, PHP ,C , Java 
 - Frameworks: React.js (learning), Laravel (planning to learn)  
 - Database: MySQL   
  Projects
